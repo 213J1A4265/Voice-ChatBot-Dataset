@@ -10,10 +10,7 @@ To run this project, ensure you have the following installed:
 - [Any dependencies or libraries]  
 
 ## Installation  
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+
 pip install -r requirements.txt  # For Python  
 npm install  # For JavaScript  
 python main.py  # or node app.js
